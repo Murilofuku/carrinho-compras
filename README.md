@@ -10,7 +10,7 @@ Projeto de carrinho de compras simples, desenvolvido com HTML, CSS e JavaScript 
 - Cálculo automático do valor total.
 - Botão para limpar o carrinho.
 
-## 🧠 Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3 (com responsividade e estilização moderna)
