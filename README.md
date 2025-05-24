@@ -18,7 +18,7 @@ Projeto de carrinho de compras simples, desenvolvido com HTML, CSS e JavaScript 
 
 ## 📷 Interface
 
-![screenshot](./assets/Screenshot_146.png) <!-- Adicione aqui uma imagem de exemplo do projeto -->
+![screenshot](./assets/Screenshot_146.png) 
 
 ## 🔧 Como usar
 
